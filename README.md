@@ -46,3 +46,4 @@ Descrição do conjunto de dados utilizado, incluindo os atributos:
 
 Essa versão fornece uma descrição abrangente do projeto, incluindo detalhes sobre o objetivo do dashboard, as tecnologias utilizadas, a descrição do conjunto de dados, e as instruções para execução.
 
+Obs: Alguns detalhes estão em inglês, mas como são muitos dados decidi traduzir apenas os mais interessantes...
